@@ -1,1 +1,1 @@
-# weather_synthetic_generation
+# Synthetic data generation for weather data
